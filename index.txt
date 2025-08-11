@@ -2,20 +2,20 @@
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = AMINUL-SORDAR 
+AMINUL-SORDAR
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+aminulsordar04@gmail.com
 
 Phone
-+1 (213) 352-2795
++8801704407109
 
 Birthday
-June 23, 1982
+June 01, 2006
 
 Location
 Sacramento, California, USA
@@ -94,15 +94,15 @@ Resume
 Education
 
 University school of the arts
-2007 — 2008
+2017 — 2018
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 New york academy of art
-2006 — 2007
+2016 — 2017
 Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
 
 High school of art and design
-2002 — 2004
+2012 — 2014
 Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
 Experience
