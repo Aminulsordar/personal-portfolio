@@ -1,4 +1,3 @@
-# These are supported funding model platforms
-
-my web :
-https://aminulsordar.github.io/personal-portfolio/ # Replace with a single Patreon username
+# .github/FUNDING.yml
+# Replace "AminulSordar" with your actual Patreon username (no URL, no @).
+patreon: AminulSordar
