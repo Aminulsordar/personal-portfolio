@@ -1,44 +1,50 @@
-# Personal portfolio
+# 🌟 Personal Portfolio — Aminul Sordar
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/Aminulsordar/personal-portfolio?color=blue&logo=github&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/Aminulsordar/personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Aminulsordar/personal-portfolio?style=social)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Aminul%20Sordar-blue?logo=facebook&style=flat)](https://www.facebook.com/profile.php?id=100071880593545)
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Aminulsordar-black?logo=github&style=flat)](https://github.com/Aminulsordar)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## ✨ About
 
+**Personal Portfolio (vCard)** — A fully responsive personal portfolio website 🌐, designed to showcase your **skills**, **projects**, and **contact information**.  
+Built using **HTML**, **CSS**, and **JavaScript**, and optimized for **all devices** 📱💻.
+
+This portfolio is perfect for:
+
+- 🚀 Showcasing your projects
+- 🎨 Highlighting your skills
+- 📞 Providing contact options
+- 📂 Sharing your resume or CV
+
+---
+
+## 🎥 Demo
+
+### 💻 Desktop Preview  
 ![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+
+### 📱 Mobile Preview  
 ![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 🛠 Prerequisites
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Before you begin, ensure you have the following installed:
 
-## Installing vCard
+- [**Git**](https://git-scm.com/downloads) — for cloning the repository  
+- A modern browser (Chrome, Edge, Firefox, Safari)
 
-To install **vCard**, follow these steps:
+---
 
-Linux and macOS:
+## 📥 Installation
 
+Clone the repository to your local machine:
+
+### 🐧 Linux / 🍏 macOS
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+sudo git clone https://github.com/Aminulsordar/personal-portfolio.git
